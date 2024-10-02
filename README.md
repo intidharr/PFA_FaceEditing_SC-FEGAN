@@ -1,4 +1,4 @@
-# Face Editing Generative Adversarial Network with User’s Sketch and Color : 
+ # Face Editing Generative Adversarial Network with User’s Sketch and Color : 
 SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color 
 
 
